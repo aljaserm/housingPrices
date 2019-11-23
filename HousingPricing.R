@@ -1,5 +1,5 @@
 #  get the data
-housingData <- read.csv("C:/Users/aljas/OneDrive/Documents/Development/R/HousingPricing/House_Price.csv", header = TRUE)
+housingData <- read.csv("C:/Users/aljas/OneDrive/Documents/Development/R/HousingPricing/HousingPricing/House_Price.csv", header = TRUE)
 
 #Observe the data
 str(housingData)
